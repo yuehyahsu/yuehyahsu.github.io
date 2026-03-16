@@ -1,0 +1,52 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.6/css/academicons.min.css");
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,400;1,500;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
+
+/* make academicons align nicely with bootstrap icons */
+.ai {
+  vertical-align: -0.125em;
+}
+
+/* --- Font and color scheme (matching claireqfan.github.io) --- */
+
+body {
+  font-family: "Crimson Pro", serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #595959;
+  font-weight: 400;
+}
+
+h1, h2, h3, h4, h5, h6,
+.navbar-brand, .navbar-title {
+  font-family: "Crimson Pro", serif;
+  color: #043361;
+}
+
+h1 { font-weight: 500; }
+h2 { font-weight: 500; }
+h3, h4, h5, h6 { font-weight: 600; }
+
+strong { color: #222; font-weight: 500; }
+
+a { color: #39c; }
+a:hover { color: #069; }
+
+/* --- Navbar --- */
+.navbar {
+  font-family: "Crimson Pro", serif;
+  font-weight: 500;
+}
+
+.navbar .navbar-nav .nav-link {
+  color: #043361;
+}
+
+.navbar .navbar-nav .nav-link:hover {
+  color: #39c;
+}
+
+/* --- Code/monospace uses Ubuntu Mono --- */
+code, pre, .sourceCode {
+  font-family: "Ubuntu Mono", monospace;
+}

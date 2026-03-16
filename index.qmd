@@ -1,0 +1,17 @@
+---
+title: "About"
+---
+
+I am a PhD candidate at the [Harris School of Public Policy](https://harris.uchicago.edu/) at the University of Chicago. My research studies refugee welfare in developing countries, using randomized field experiments. My current work includes projects in Bangladesh and Uganda. Please reach out if you'd like to chat!
+
+## Research
+
+### Working Papers
+
+- [**Household Preferences for Women's Employment: A Field Experiment in Bangladesh**](files/employment_on_partnerships.pdf) (with [Reshmaan N. Hussam](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=952941), [Erin M. Kelley](https://www.erinmunrokelley.com/), and [Gregory Lane](https://www.gregoryvlane.com/)). *Submitted.* [[NBER WP](https://www.nber.org/papers/w34969)]
+
+### In Progress
+
+- [**Is it All About the Work?**](files/all_about_work.pdf) (with [Reshmaan N. Hussam](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=952941), [Erin M. Kelley](https://www.erinmunrokelley.com/), and [Gregory Lane](https://www.gregoryvlane.com/)).
+
+- **Flight Risk or Reward? Returns to Credit Between Refugees and Locals** (with [Sylvan Herskowitz](https://www.sylvanherskowitz.com/), [Reshmaan N. Hussam](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=952941), [Erin M. Kelley](https://www.erinmunrokelley.com/), and [Gregory Lane](https://www.gregoryvlane.com/)). *Data collection underway.*

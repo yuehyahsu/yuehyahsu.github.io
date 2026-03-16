@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sam Hsu"
+
+format:
+  html:
+    theme: cosmo
+    css:
+      - styles.css
+      - custom.css
+    include-before-body: _sidebar.html
+    toc: false
+    footnotes-hover: true
+    code-copy: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    page-layout: full
+    grid:
+      body-width: 750px
