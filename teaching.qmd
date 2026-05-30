@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-description: "Courses taught by Sam Hsu as a teaching assistant at the University of Chicago, including PhD Applied Econometrics."
+description-meta: "Courses taught by Sam Hsu as a teaching assistant at the University of Chicago, including PhD Applied Econometrics."
 ---
 
 - **Applied Econometrics II** (PhD), TA, 2026

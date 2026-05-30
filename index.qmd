@@ -2,7 +2,7 @@
 title: "About"
 pagetitle: "Sam Hsu — Development Economics, University of Chicago"
 title-prefix: ""
-description: "PhD candidate at the University of Chicago Harris School of Public Policy researching refugee welfare in developing countries through randomized field experiments in Bangladesh and Uganda."
+description-meta: "PhD candidate at the University of Chicago Harris School of Public Policy researching refugee welfare in developing countries through randomized field experiments in Bangladesh and Uganda."
 ---
 
 I am a PhD candidate at the [Harris School of Public Policy](https://harris.uchicago.edu/) at the University of Chicago. My research studies refugee welfare in developing countries, using randomized field experiments. My current work includes projects in Bangladesh and Uganda.
