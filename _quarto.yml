@@ -3,9 +3,15 @@ project:
   output-dir: docs
   resources:
     - .nojekyll
+    - robots.txt
 
 website:
   title: "Sam Hsu"
+  site-url: https://yuehyahsu.github.io
+  description: "Sam Hsu — PhD candidate at the University of Chicago Harris School of Public Policy studying refugee welfare in developing countries through randomized field experiments."
+  image: files/sam_headshot.jpeg
+  open-graph: true
+  twitter-card: true
 
 format:
   html:
