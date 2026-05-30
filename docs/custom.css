@@ -50,3 +50,10 @@ a:hover { color: #069; }
 code, pre, .sourceCode {
   font-family: "Ubuntu Mono", monospace;
 }
+
+/* --- Muted inline note (e.g., TA evaluation policy) --- */
+.eval-note {
+  color: #999;
+  font-style: italic;
+  font-size: 0.85em;
+}
