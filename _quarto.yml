@@ -14,6 +14,10 @@ format:
       - styles.css
       - custom.css
     include-before-body: _sidebar.html
+    include-in-header:
+      - text: |
+          <script data-goatcounter="https://yuehyahsu.goatcounter.com/count"
+                  async src="//gc.zgo.at/count.js"></script>
     toc: false
     footnotes-hover: true
     code-copy: true
