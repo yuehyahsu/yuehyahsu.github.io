@@ -2,13 +2,15 @@
 title: "About"
 ---
 
-I am a PhD candidate at the [Harris School of Public Policy](https://harris.uchicago.edu/) at the University of Chicago. My research studies refugee welfare in developing countries, using randomized field experiments. My current work includes projects in Bangladesh and Uganda. Please reach out if you'd like to chat!
+I am a PhD candidate at the [Harris School of Public Policy](https://harris.uchicago.edu/) at the University of Chicago. My research studies refugee welfare in developing countries, using randomized field experiments. My current work includes projects in Bangladesh and Uganda.
+
+My work would not be possible without research and implementing partners like [RTM](https://rtm-international.org/index/), [IGREC](https://igrec-ug.org/), and [Hofokam](https://hofokam.co.ug/).
 
 ## Research
 
 ### Working Papers
 
-- [**Household Preferences for Women's Employment: A Field Experiment in Bangladesh**](files/employment_on_partnerships.pdf) (with [Reshmaan N. Hussam](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=952941), [Erin M. Kelley](https://www.erinmunrokelley.com/), and [Gregory Lane](https://www.gregoryvlane.com/)). *Submitted.* [[NBER WP](https://www.nber.org/papers/w34969)]
+- [**Household Preferences for Women's Employment: A Field Experiment in Bangladesh**](files/employment_on_partnerships.pdf) (with [Reshmaan N. Hussam](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=952941), [Erin M. Kelley](https://www.erinmunrokelley.com/), and [Gregory Lane](https://www.gregoryvlane.com/)). *Submitted.* [[NBER WP](https://www.nber.org/papers/w34969)] [[UNHCR Policy Brief](https://www.unhcr.org/media/bangladesh-policy-brief-impact-livelihood-activities-among-rohingya-refugees)]
 
 ### In Progress
 

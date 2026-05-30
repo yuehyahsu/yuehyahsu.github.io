@@ -1,9 +1,7 @@
 /.quarto/
-/_site/
-/_cache/
-/.Rproj.user/
-*.Rproj
-.DS_Store
-.Rhistory
-
 **/*.quarto_ipynb
+/.Rproj.user/
+
+# CV LaTeX sources kept on Overleaf, not in the site repo (publish the PDF only)
+/files/academic_cv.tex
+/files/PSetUChicago.sty
