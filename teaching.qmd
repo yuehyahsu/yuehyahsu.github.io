@@ -3,6 +3,6 @@ title: "Teaching"
 description-meta: "Courses taught by Sam Hsu as a teaching assistant at the University of Chicago, including PhD Applied Econometrics."
 ---
 
-- **Applied Econometrics II** (PhD), TA, 2026 [[Evaluations](files/26winter_TA_metricsII.png)]
+- **Applied Econometrics II** (PhD), TA, 2026 [[Evaluations](files/26winter_TA_metricsII.png){target="_blank" rel="noopener"}]
 - **Order and Violence** (Master's), TA, 2025 [(TAs were not evaluated by school policy.)]{.eval-note}
-- **Why We Fight** (Undergrad), TA, 2025 [[Evaluations](files/25fall_TA_whywefight.png)]
+- **Why We Fight** (Undergrad), TA, 2025 [[Evaluations](files/25fall_TA_whywefight.png){target="_blank" rel="noopener"}]
