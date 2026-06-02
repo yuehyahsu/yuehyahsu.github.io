@@ -22,6 +22,7 @@ format:
     include-before-body: _sidebar.html
     include-in-header:
       - text: |
+          <meta name="google-site-verification" content="RmzV_dJ6AehF5bdONYi6ybQ8MxIAX7DPzgztjmOL1b0">
           <script data-goatcounter="https://yuehyahsu.goatcounter.com/count"
                   async src="//gc.zgo.at/count.js"></script>
     toc: false
