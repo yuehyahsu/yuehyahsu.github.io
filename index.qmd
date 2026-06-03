@@ -1,6 +1,5 @@
 ---
-title: "About"
-pagetitle: "Sam Hsu — Development Economics, University of Chicago"
+pagetitle: "Yueh-ya (Sam) Hsu"
 title-prefix: ""
 description-meta: "PhD candidate at the University of Chicago Harris School of Public Policy researching refugee welfare in developing countries through randomized field experiments in Bangladesh and Uganda."
 ---
