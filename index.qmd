@@ -4,6 +4,8 @@ title-prefix: ""
 description-meta: "PhD candidate at the University of Chicago Harris School of Public Policy researching refugee welfare in developing countries through randomized field experiments in Bangladesh and Uganda."
 ---
 
+## About
+
 I am a PhD candidate at the [Harris School of Public Policy](https://harris.uchicago.edu/) at the University of Chicago. My research studies refugee welfare in developing countries, using randomized field experiments. My current work includes projects in Bangladesh and Uganda.
 
 My work would not be possible without data collection and implementation partners like [RTM](https://rtm-international.org/index/), [IGREC](https://igrec-ug.org/), and [Hofokam](https://hofokam.co.ug/).
