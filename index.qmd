@@ -8,7 +8,7 @@ description-meta: "PhD student at the University of Chicago Harris School of Pub
 
 I am a PhD student at the [Harris School of Public Policy](https://harris.uchicago.edu/) at the University of Chicago. My research studies refugee welfare in developing countries, using randomized field experiments. My current work includes projects in Bangladesh and Uganda.
 
-My work would not be possible without data collection and implementation partners like [RTM](https://rtm-international.org/index/), [IGREC](https://igrec-ug.org/), and [Hofokam](https://hofokam.co.ug/).
+I've joined the current cohort of the [Charity Entrepreneurship Incubation Program](https://www.charityentrepreneurship.com/incubation-program). I will be in London from mid-September to mid-October. Please [reach out](https://cal.com/samhsu) if you would like to meet!
 
 ## Research
 
@@ -21,3 +21,7 @@ My work would not be possible without data collection and implementation partner
 - [**Is it All About the Work?**](files/all_about_work.pdf) (with [Reshmaan N. Hussam](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=952941), [Erin M. Kelley](https://www.erinmunrokelley.com/), and [Gregory Lane](https://www.gregoryvlane.com/)).
 
 - **Flight Risk or Reward? Returns to Credit Between Refugees and Locals** (with [Sylvan Herskowitz](https://www.sylvanherskowitz.com/), [Reshmaan N. Hussam](https://www.hbs.edu/faculty/Pages/profile.aspx?facId=952941), [Erin M. Kelley](https://www.erinmunrokelley.com/), and [Gregory Lane](https://www.gregoryvlane.com/)). *Data collection underway.*
+
+## Acknowledgements
+
+My work would not be possible without data collection and implementation partners like [RTM](https://rtm-international.org/index/), [IGREC](https://igrec-ug.org/), and [Hofokam](https://hofokam.co.ug/).
