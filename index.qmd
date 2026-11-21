@@ -1,12 +1,12 @@
 ---
 pagetitle: "Yueh-ya (Sam) Hsu"
 title-prefix: ""
-description-meta: "PhD student at the University of Chicago Harris School of Public Policy researching refugee welfare in developing countries through randomized field experiments in Bangladesh and Uganda."
+description-meta: "UChicago Harris PhD student studying refugee welfare and access to opioids for palliative care, using randomized field experiments in South Asia and East Africa."
 ---
 
 ## About
 
-I am a PhD student at the [Harris School of Public Policy](https://harris.uchicago.edu/) at the University of Chicago. My research spans two broad interests. First, refugee welfare in low- and middle-income countries, with a focus on financial inclusion and psychosocial wellbeing. Second, the market for and access to opioids for palliative care in settings where they are severely under-supplied. I am engaged with field work to shape research questions and use randomized experiments to generate evidence. My current work includes projects in South Asia and East Africa.
+I am a PhD student at the [Harris School of Public Policy](https://harris.uchicago.edu/) at the University of Chicago. My research spans two broad interests. First, refugee welfare in low- and middle-income countries, with a focus on financial inclusion and psychosocial wellbeing. Second, demand and access to opioids for palliative care, in settings where they are under-supplied. I am engaged with field work to shape research questions and use randomized experiments to generate evidence. My current work includes projects in South Asia and East Africa.
 
 I also co-founded [Palliative Access Lab](https://palliativeaccesslab.org) through the [Charity Entrepreneurship Incubation Program](https://www.charityentrepreneurship.com/incubation-program). Please [reach out](https://cal.com/samhsu) if you would like to meet!
 
